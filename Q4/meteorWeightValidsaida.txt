@@ -1,0 +1,1 @@
+meteors with valid name and mass bigger than a kilo: 	4823
