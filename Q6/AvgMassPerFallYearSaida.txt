@@ -1,0 +1,5 @@
+Situation: Fell | year:0860	| Avg Mass: 472.0
+Situation: Fell | year:1399	| Avg Mass: 107000.0
+Situation: Fell | year:1490	| Avg Mass: 103.3
+Situation: Fell | year:1491	| Avg Mass: 127000.0
+Situation: Fell | year:1583	| Avg Mass: 15000.0
