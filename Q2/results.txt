@@ -1,0 +1,11 @@
+"Iron, IAB complex"	54
+"Iron, IAB-MG"	84
+"Iron, IAB-an"	3
+"Iron, IAB-sHH"	5
+"Iron, IAB-sHL"	17
+"Iron, IAB-sHL-an"	1
+"Iron, IAB-sLH"	9
+"Iron, IAB-sLL"	28
+"Iron, IAB-sLM"	10
+"Iron, IAB-ung"	46
+"Iron, IAB?"	4

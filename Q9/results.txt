@@ -1,0 +1,22 @@
+<--------------FIRST JOB-------------->
+"Iron, IAB complex"	54
+"Iron, IAB-MG"	84
+"Iron, IAB-an"	3
+"Iron, IAB-sHH"	5
+"Iron, IAB-sHL"	17
+"Iron, IAB-sHL-an"	1
+"Iron, IAB-sLH"	9
+"Iron, IAB-sLL"	28
+"Iron, IAB-sLM"	10
+"Iron, IAB-ung"	46
+<--------------SECOND JOB-------------->
+"Iron, IAB complex"	0,12%
+"Iron, IAB-MG"	0,18%
+"Iron, IAB-an"	0,01%
+"Iron, IAB-sHH"	0,01%
+"Iron, IAB-sHL"	0,04%
+"Iron, IAB-sHL-an"	0,00%
+"Iron, IAB-sLH"	0,02%
+"Iron, IAB-sLL"	0,06%
+"Iron, IAB-sLM"	0,02%
+"Iron, IAB-ung"	0,10%
