@@ -1,0 +1,13 @@
+JOB 1:
+"Iron, IAB complex"_1805	1500000.0
+"Iron, IAB complex"_1867	15.0
+"Iron, IAB complex"_1875	192.0
+"Iron, IAB complex"_1884	1328.0
+"Iron, IAB complex"_1887	16550.0
+
+JOB 2:
+"Iron, IAB complex"	1983	2000000.0
+"Iron, IAB-MG"	1575	5.0E7
+"Iron, IAB-an"	1983	4400.0
+"Iron, IAB-sHH"	1916	16600.0
+"Iron, IAB-sHL"	1938	127760.0
