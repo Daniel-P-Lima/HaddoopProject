@@ -1,0 +1,8 @@
+Year: 0860 | RecClass: L6 | Count: 1
+Year: 0920 | RecClass: Stone-uncl | Count: 1
+Year: 1399 | RecClass: "Iron, IID" | Count: 1
+Year: 1490 | RecClass: Stone-uncl | Count: 1
+Year: 1491 | RecClass: LL6 | Count: 1
+Year: 1495 | RecClass: Stone-uncl | Count: 1
+Year: 1519 | RecClass: Stone-uncl | Count: 1
+Year: 1575 | RecClass: "Iron, IAB-MG" | Count: 1
