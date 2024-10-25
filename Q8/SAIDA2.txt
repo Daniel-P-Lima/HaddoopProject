@@ -1,0 +1,5 @@
+Valid_"Iron, IAB complex"	32
+Valid_"Iron, IAB-MG"	75
+Valid_"Iron, IAB-an"	2
+Valid_"Iron, IAB-sHH"	2
+Valid_"Iron, IAB-sHL"	10
