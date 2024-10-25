@@ -1,0 +1,5 @@
+0860_L6	Avg Latitude: 33.725, Count: 1
+1399_"Iron, IID"	Avg Latitude: 50.18333, Count: 1
+1490_Stone-uncl	Avg Latitude: 45.48333, Count: 1
+1519_Stone-uncl	Avg Latitude: 39.0, Count: 1
+1621_Iron	Avg Latitude: 31.0, Count: 1
